@@ -274,7 +274,8 @@ nav.show div.icon-close {
 
 #home .image img {
   position: relative;
-  right: 2.93rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #home .image img,
